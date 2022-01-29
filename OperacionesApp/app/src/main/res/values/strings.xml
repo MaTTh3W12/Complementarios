@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OperacionesApp</string>
+    <string name="PLUS">+</string>
+    <string name="MINUS">-</string>
+    <string name="MULTIPLY">*</string>
+    <string name="DIVISION">/</string>
+</resources>
